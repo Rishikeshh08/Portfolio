@@ -1,0 +1,52 @@
+Hi, I'm Rishikesh Mandlik 👋 
+Aspiring Full-Stack Developer passionate about front-end development. I craft responsive, user-friendly websites using React, JavaScript, HTML, and CSS, with seamless API integration and efficient state management.
+
+2. What I Do (Skills)
+Frontend & Web Development
+Building responsive, multi-page interfaces using React.js, HTML, CSS, and JavaScript.
+State Management & APIs
+Efficient handling of application state with Context API and Redux, integrating real-time APIs.
+Clean Code & Version Control
+Writing maintainable code and using Git/GitHub for collaborative development and version tracking.
+
+3. Education
+Yeshwantrao Chavan College of Engineering, Nagpur
+BTech in Computer Science and Engineering (2021–2025)
+CGPA: 7.61
+
+St. Paul Junior and Senior College, Nagpur
+Class XII – Maharashtra State Board (2020–2021)
+Percentage: 94.67%
+
+Prerna Public School, Nagpur
+Class X – CBSE (2018–2019)
+Percentage: 88.40%
+
+4. Projects
+📝 Blog Website
+React-powered blog with multi-page routing, dynamic content from APIs, and state management using Context API.
+
+📚 Course Catalogue Web App
+Interactive React web app featuring course catalogs with filters, wishlist functionality, and Redux-managed user preferences.
+
+🌦 Weather App
+Real-time weather dashboard using OpenWeather and Geolocation APIs with fast, responsive design.
+
+5. Certificates
+Core Java Certification
+SAI Compusys Pvt. Ltd. — Demonstrated understanding of Java fundamentals including OOPs, exception handling, and file I/O.
+
+Footer:
+"Thanks for visiting! © 2024 Rishikesh Mandlik"
+
+
+learnings:
+You should use rel="noopener noreferrer" on links (<a> tags) that have target="_blank".
+Reason:
+When you open a link in a new tab with target="_blank", the new page can access the original page via window.opener. This can be a security risk (the new page could potentially manipulate your page).
+noopener prevents the new page from accessing window.opener.
+noreferrer also prevents the browser from sending the referrer header, and it implies noopener in most browsers.
+Example:
+<a href="https://example.com" target="_blank" rel="noopener noreferrer">
+  Visit Example
+</a>
