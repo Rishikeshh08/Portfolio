@@ -19,7 +19,6 @@ function App() {
           <Projects/>
           <Certificates/>
           <Contact/>
-          
         </div>
         <Footer/>
       </div>
